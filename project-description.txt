@@ -19,7 +19,7 @@ Rough breakdown of tasks:
 Each member of the group will be assigned a variable to pull data on and create a visual that represents the correlation of its impact on airline price. 
 
 Distance:
-Day of Week:
+Day of Week: (Samia)
 Timing of purchase:
 Layovers:
 Time of Day:
