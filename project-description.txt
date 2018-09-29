@@ -2,8 +2,9 @@ Title: Influence of Variables on Flight Pricing
 
 Team Members: Andy Binkley, Adam DeBruler, Annie Diaz, Samia Paramore, Tiffany Wan Yeung
 
-Project Description / Outline: Goal is to determine how 5 known variables are expected to influence the price of airline tickets across the country. The 5 variables are:
-Distance
+Project Description / Outline: Goal is to determine how 5 known variables are expected to influence the price of airline tickets across the country.
+The 5 variables are:
+  Distance
   Day of week
   How far in advance (timing of purchase)
   Layovers
