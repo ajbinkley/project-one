@@ -1,0 +1,25 @@
+Title: Influence of Variables on Flight Pricing
+
+Team Members: Andy Binkley, Adam DeBruler, Annie Diaz, Samia Paramore, Tiffany Wan Yeung
+
+Project Description / Outline: Goal is to determine how 5 known variables are expected to influence the price of airline tickets across the country. The 5 variables are:
+Distance
+  Day of week
+  How far in advance (timing of purchase)
+  Layovers
+  Time of day
+  
+Research questions to answer: Of 5 known variables that affect airline price, which ones have the most/least amount of influence on airline ticket prices?
+
+Data sets to be used: Travelpayouts.com, maybe an airline price aggregator (TBD pending site scrapability), Airport code CSV file (Github),
+
+Rough breakdown of tasks:
+
+Each member of the group will be assigned a variable to pull data on and create a visual that represents the correlation of its impact on airline price. 
+
+Distance:
+Day of Week:
+Timing of purchase:
+Layovers:
+Time of Day:
+
