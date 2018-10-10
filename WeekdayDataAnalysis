@@ -1,0 +1,8 @@
+When to fly out?  
+
+To determine the lowest price of a ticket, we used the average price of ticket, day of the week and distance.
+
+It was determined that the day of the week with the best economic price for flying out was Tuesday, with an average price of $275. You would pay the most if you fly out on Friday, paying an average price of $316.
+
+These prices are relatively significant with a p-value of 0.059.  Even though it is best practice to reject when the p-value is less than 0.05, we accept this data since it demonstrates that best day to fly out is, indeed, Tuesday.
+It's the information we are seeking.  Although the ANOVA graph indicates that there is no significant difference in which day to fly out.  
